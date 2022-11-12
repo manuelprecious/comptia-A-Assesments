@@ -7,3 +7,11 @@ assessment until a successful outcome is achieved.
 
 You will be assessed on the learning outcomes for the module: IT
 Professional Soft Skills.
+
+True of False: As a CompTIA A+ certified professional you are obligated to provide
+your customer confidentiality. While working on a computer you find something
+illegal, so you do not report it.
+
+# Answer Instructions
+1. True
+2. False
