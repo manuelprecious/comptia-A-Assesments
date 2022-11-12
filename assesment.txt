@@ -25,3 +25,14 @@ a problem with the computer system?
 2. Review any configuration changes
 3. Contact the manufacturers tech support
 4. Unplug the power supply, then remove the battery.
+
+Question 3: Information technology professionals provide many services for customers.
+When fixing a potential problem, it is important to prevent it from occuring 
+again. If a client deleted or modified a file inadvently, which action could you take to 
+prevent reoccurence?
+
+# Answer Instructions
+1. Perform a full backup
+2. Reimage their laptop
+3. Speak with their supervisor and request a reprimand
+4. Add security or permissions to the file
