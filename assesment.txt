@@ -36,3 +36,11 @@ prevent reoccurence?
 2. Reimage their laptop
 3. Speak with their supervisor and request a reprimand
 4. Add security or permissions to the file
+
+Quesiton 4: True or False: In order to troubleshoot computer problems effectively, an IT
+professinal needs to know how a computer system is supposed to work and 
+what components may fail.
+
+# Answer Instructions
+1. True 
+2. False
