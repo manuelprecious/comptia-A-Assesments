@@ -8,10 +8,20 @@ assessment until a successful outcome is achieved.
 You will be assessed on the learning outcomes for the module: IT
 Professional Soft Skills.
 
-True of False: As a CompTIA A+ certified professional you are obligated to provide
+Question 1:     True of False: As a CompTIA A+ certified professional you are obligated to provide
 your customer confidentiality. While working on a computer you find something
 illegal, so you do not report it.
 
 # Answer Instructions
 1. True
 2. False
+
+
+Question 2: Which of the following is the first step in identifying
+a problem with the computer system?
+
+# Answer Instructions
+1. Quesiton the system's user
+2. Review any configuration changes
+3. Contact the manufacturers tech support
+4. Unplug the power supply, then remove the battery.
